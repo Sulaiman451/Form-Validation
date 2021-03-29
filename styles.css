@@ -1,0 +1,15 @@
+#h1 {
+  margin-left: 300px;
+}
+
+#myForm {
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+.bar {
+  background-color: rgb(18, 178, 180);
+  overflow: hidden;
+  height: 60px;
+}
+
